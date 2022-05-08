@@ -1,5 +1,4 @@
 # File swpper
-# Made by somePythonProgrammer as a WhiteHat project.
 
 # read the files
 global file1_contents,file2_contents
